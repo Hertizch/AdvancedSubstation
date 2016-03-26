@@ -14,7 +14,7 @@ data:extend(
     prerequisites = {"electric-energy-distribution-1", "electric-energy-distribution-2"},
     unit =
     {
-      count = 200,
+      count = 300,
       ingredients =
       {
         {"science-pack-1", 1},

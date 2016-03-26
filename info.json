@@ -1,9 +1,9 @@
 {  
    "name":"advanced-substation",
-   "version":"0.1.0",
+   "version":"0.1.1",
    "title":"Advanced Substation",
    "author":"Hertizch",
    "contact":"",
-   "homepage":"http://www.hertizch.com",
+   "homepage":"https://github.com/Hertizch/advanced-substation",
    "description":"Adds an advanced substation that requires less space and supplies a larger area."
 }
